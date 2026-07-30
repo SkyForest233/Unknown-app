@@ -1,0 +1,21 @@
+# --- 签名保密文件（绝不上传） ---
+keystore.properties
+*.keystore
+*.jks
+
+# --- Gradle ---
+.gradle/
+build/
+app/build/
+
+# --- IDE ---
+.idea/
+*.iml
+.kotlin/
+local.properties
+
+# --- 其他 ---
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
